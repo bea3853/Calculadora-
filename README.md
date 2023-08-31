@@ -1,4 +1,4 @@
-# Calculadora em Java Script
+# Calculadora em Javascript
 
 https://calculadora.bealves.repl.co
 
@@ -17,7 +17,7 @@ Calculadora que realiza as 4 principais operações.
 
 
 
-HTML - CSS  - JAva Script
+HTML - CSS  - Javascript
 
 
 #  Autor
